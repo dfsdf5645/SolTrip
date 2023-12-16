@@ -252,6 +252,9 @@
 ### 2. 메인화면
 
 ![image](https://github.com/SawSimE/SolTrip/assets/66519915/c1f9bf71-ccb0-4bf5-b17d-eb6cf8580c0f)
+<img src="https://github.com/gayong/SolTrip/assets/122499571/ec96b4ad-da38-4ff0-a629-85150435bd14" width="325"/>
+
+(좌) 등록된 여행 일정이 없을 때 / (우) 등록된 여행 일정이 있을 때
 
 <br/>
 
@@ -288,13 +291,15 @@
 
 5.1 인기 장소 추천
 
-![image](https://github.com/SawSimE/SolTrip/assets/66519915/e95bc924-49b4-47df-b9aa-95be21419411)
+<img src="https://github.com/gayong/SolTrip/assets/122499571/a3cd7135-ba9f-4154-99a8-133ec99973a7" width="325"/> 
+<img src="https://github.com/SawSimE/SolTrip/assets/66519915/e95bc924-49b4-47df-b9aa-95be21419411" width="325"/> 
+
 
 - 현재 내 위치를 GPS로 파악해 인근 지역 내 다른 사용자들의 결제 내역이 가장 많은 순으로 표시 (카테고리별 분류)
   
 <br/>
 
-### 6. 정산
+### 6. 거래 내역 확인 및 정산
 
 6.1 거래 내역
 
@@ -302,10 +307,23 @@
 
 - 여행 중 사용한 카드/현금 거래 내역 표시
 
-6.2 정산
+6.2. 현금 기록하기
+
+<img src="https://github.com/gayong/SolTrip/assets/122499571/f6754b36-3dac-42e5-a197-4702c6223e77" width="325"/>
+
+- 현금의 경우 직접 기록하기 가능
+
+6.3. 거래 상세내역
+
+<img src="https://github.com/gayong/SolTrip/assets/122499571/42ddbeb3-626d-4d57-b813-0a7a13a0969a" width="325"/>
+
+- 거래 내역 선택 시 뜨는 상세 내역
+
+6.4 정산
 
 ![image](https://github.com/SawSimE/SolTrip/assets/66519915/4df85848-0952-4b07-b01b-b29a6ce23d7d)
 ![image](https://github.com/SawSimE/SolTrip/assets/66519915/f716b467-f74b-420c-9daf-d0e36f8bcd09)
+<img src="https://github.com/gayong/SolTrip/assets/122499571/aa901468-0487-4308-9152-082442203a3e" width="325"/>
 
 - 정산이 필요한 내역을 체크하여 이미지 저장 형태로 다른 사람에게 공유
 
@@ -313,9 +331,16 @@
 
 ### 7. 포트폴리오
 
-7.1 포트폴리오
+7.1 포트폴리오 메인
 
-![image](https://github.com/SawSimE/SolTrip/assets/66519915/2af302a7-f397-4db9-9319-bb8cca0af3a8)
+<img src="https://github.com/gayong/SolTrip/assets/122499571/2a0b454a-4e11-4c28-946c-2a30056bbbc7" width="325"/>
+<img src="https://github.com/gayong/SolTrip/assets/122499571/21fbea31-2eee-4f4d-aef9-0d41767302dd" width="325"/>
+
+(좌) 끝마친 여행이 없을 때 / (우) 끝마친 여행이 있을 때
+
+7.2 포트폴리오
+
+<img src="https://github.com/gayong/SolTrip/assets/122499571/f2e451c2-5a5e-4bf6-99af-86edfeb4bbec" width="325"/>
 
 - 여행을 마친 후, 위치별 결제 내역과 그에 따른 이동 경로 순서대로 지도에 표시
 
