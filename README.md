@@ -1,4 +1,4 @@
-# ✈ SolTrip
+<h1 align="center"> ✈ SolTrip - 2023 신한은행 해커톤 with SSAFY ✈  </h1>
 
 <div>
   <h3>맞춤형 여행 예산 관리 플랫폼</h3>
